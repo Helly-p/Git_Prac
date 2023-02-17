@@ -1,5 +1,5 @@
 ## Git Commands
-###### Git Practical Exam : <a href="./Git Practical Exam.pdf"/>
+###### Git Practical Exam : <a href="./Git Practical Exam.pdf">Git Practical Exam.pdf</a>
 
 ### 1. Init
 The git init command creates a new Git repository. 
